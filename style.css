@@ -11,3 +11,8 @@ header{
     grid-auto-columns: 33vw;
     margin-top: 20px;
 }
+.timer{
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 20px;
+}
